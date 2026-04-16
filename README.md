@@ -22,7 +22,7 @@
 
 ---
 
-## 🌃 What is NITEBUDDY?
+## What is NITEBUDDY?
 
 NITEBUDDY is a social matching platform that structurally eliminates the emotional friction and safety risks involved in finding a nightlife companion — built on an **anonymous, group-first architecture**.
 
@@ -30,7 +30,7 @@ NITEBUDDY is a social matching platform that structurally eliminates the emotion
 
 ---
 
-## 🔍 Problem
+## Problem
 
 Young adults in their 20s–30s repeatedly want to go to clubs and bars — but keep stopping themselves.
 
@@ -44,7 +44,7 @@ Young adults in their 20s–30s repeatedly want to go to clubs and bars — but 
 
 ---
 
-## 💡 Solution — 5 Immutable UX Principles
+## Solution — 5 Immutable UX Principles
 
 ### 1. Anonymous to users. Known to the system.
 - Between users: no real names, no phone numbers
@@ -70,7 +70,7 @@ Young adults in their 20s–30s repeatedly want to go to clubs and bars — but 
 
 ---
 
-## 🛡️ Safety Architecture
+## Safety Architecture
 
 ```
 How other apps fail              NITEBUDDY's approach
@@ -85,7 +85,7 @@ Safety is built on three pillars: **Predictability + Control + Accountability**
 
 ---
 
-## 📊 Competitive Differentiation
+## Competitive Differentiation
 
 | Dimension | Existing Apps / Open Chats | NITEBUDDY |
 |-----------|---------------------------|-----------|
@@ -97,7 +97,7 @@ Safety is built on three pillars: **Predictability + Control + Accountability**
 
 ---
 
-## 💰 Revenue Model
+## Revenue Model
 
 > **Venues pay. Users don't.**
 
@@ -111,7 +111,7 @@ Safety is built on three pillars: **Predictability + Control + Accountability**
 
 ---
 
-## 📍 B2B Data Pipeline
+## B2B Data Pipeline
 
 What partner venues get — powered by group-level location intelligence:
 
@@ -132,7 +132,7 @@ Partner KPI Report
 
 ---
 
-## 🚀 MVP Scope
+## MVP Scope
 
 - [x] Account creation (anonymous-based)
 - [x] Group creation & joining
@@ -144,7 +144,7 @@ Partner KPI Report
 
 ---
 
-## 🗺️ Expansion Vision
+## Expansion Vision
 
 ```
 Phase 1   Seoul nightlife pilot (Hongdae / Gangnam / Itaewon)
@@ -159,7 +159,7 @@ Growth strategy: No individual virality → **Venue-led onboarding**
 
 ---
 
-## 🏗️ Tech Stack
+## Tech Stack
 
 | Layer | Stack |
 |-------|-------|
@@ -171,7 +171,7 @@ Growth strategy: No individual virality → **Venue-led onboarding**
 
 ---
 
-## ⚠️ Legal & Compliance
+## Legal & Compliance
 
 - Location data collection subject to Korean Personal Information Protection Act & Location Information Act review
 - App Store review risk (nightlife-adjacent app policies) to be assessed
@@ -179,7 +179,7 @@ Growth strategy: No individual virality → **Venue-led onboarding**
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 NITEBUDDY/
