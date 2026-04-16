@@ -38,7 +38,7 @@ Young adults in their 20s–30s repeatedly want to go to clubs and bars — but 
 |-----|----------------------|
 | Men | Rejection feels personal → emotional damage |
 | Women | Safety threats, DM fatigue, unwanted exposure |
-| Both | No trustworthy infrastructure in existing tools (open chats, anonymous communities) |
+| Both | Want to keep their nightlife separate from their social identity — being seen at clubs or bars can damage how they're perceived by friends, colleagues, or acquaintances |
 
 **Core insight:** People don't stop because they have "no one to go with." They stop because there's **no structure that makes it feel safe and normal to try.**
 
